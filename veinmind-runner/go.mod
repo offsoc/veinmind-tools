@@ -7,7 +7,7 @@ require (
 	github.com/chaitin/libveinmind v1.5.6
 	github.com/chaitin/veinmind-common-go v1.4.4
 	github.com/distribution/distribution v2.8.1+incompatible
-	github.com/docker/docker v23.0.0+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/gin-gonic/gin v1.8.1
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/gogf/gf v1.16.9
