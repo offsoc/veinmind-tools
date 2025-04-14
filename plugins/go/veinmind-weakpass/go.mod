@@ -8,5 +8,5 @@ require (
 	github.com/chaitin/libveinmind v1.5.6
 	github.com/chaitin/veinmind-common-go v1.4.4
 	github.com/stretchr/testify v1.7.4
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.35.0
 )
